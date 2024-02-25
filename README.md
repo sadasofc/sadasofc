@@ -16,7 +16,7 @@ You can click the Preview link to take a look at your changes.
 ## ⚖️  *CYBER - X DEVELOPER TEAM* *2K23*  ⚖️
 
 
-**[DARK ALPHA](https://github.com/darkalphaxteam/)**</br>Founder & Developer</br> | **[ROSHAN CHAMIKA](https://github.com/chamiofficial)**</br>CO- Owner & CO-Coder</br> | **[MR.NIMA](https://github.com/DarkMakerofc)**</br> CO-Owner & CO-Coder</br> | **[Akash Niranjana](https://github.com/Niranjana45)**</br> Beta Tester
+**[SAVIYA MD](https://github.com/saviya55)**</br>Founder & Developer</br> | **[SADAS OFC](https://github.com/sadasofcl)**</br>CO- Owner & CO-Coder</br> | **[MANIYA OFC](https://github.com/MANIBOT)**</br> Beta Tester</br> |
 
 
 
