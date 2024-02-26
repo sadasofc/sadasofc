@@ -55,3 +55,7 @@ Do not edit copyright messages!
   "OPENAI_API_KEY": "null",
   "MONGODB_URI": "mongodb+srv://sam:sam@cluster0.u1smxsv.mongodb.net/?retryWrites=true&w=majority",
   "PACK_INFO": "Vajira;
+
+  <p align="left">
+<a href="https://github.com/sadasofc/QUEEN-DEW-MD/fork"><img align="center" src="https://telegra.ph/file/3514997e86c4bb12d8f67.png" alt="Fork and deploy" height="35" width="155" /></a>
+
